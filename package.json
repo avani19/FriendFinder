@@ -23,9 +23,10 @@
   "bugs": {
     "url": "https://github.com/avani19/FriendFinder/issues"
   },
-  "homepage": "https://github.com/avani19/FriendFinder#readme"
+  "homepage": "https://github.com/avani19/FriendFinder#readme",
 
-"engines": {
+"engines" : {
   "node": "4.5.0"
 }
+
 }
