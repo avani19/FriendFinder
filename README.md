@@ -10,5 +10,5 @@
 ![Survey Page](/screenShots/surveypage.png)
 * ##### On click of SUBMIT button, a modal with your best match will appear with the name and picture of your match
 ![Modal Page](/screenShots/modalpage.png)
-* ##### On click of API Friends list, You are able view the API route that contains a list of all the Friends who took the survey
+* ##### On click of API Friends list, You are able to view the API route that contains a list of all the Friends who took the survey
 ![API Page](/screenShots/APIpage.png)
